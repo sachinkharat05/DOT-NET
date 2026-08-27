@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Student Dashboard";
+}
+
+<h3>Welcome, Student</h3><h3>Quick Actions</h3>
+ 
+    <a asp-controller="Products" asp-action="List"> Browse Products </a> |
+    <a asp-controller="Orders"   asp-action="List"> View Orders     </a> |
+    <a asp-controller="Account"  asp-action="ChangePassword">Change Password</a>|
+    <a asp-controller="Auth"     asp-action="Logout">Logout</a>
+    <br />
+    
+    <h3>My Activities</h3>
+
+    <table border="1" cellpadding="8">
+        <tr>
+            <th>Activity</th>
+            <th>Date</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td>Orientation</td>
+            <td>01-Aug-2026</td>
+            <td>Completed</td>
+        </tr>
+        <tr>
+            <td>Workshop</td>
+            <td>03-Aug-2026</td>
+            <td>Scheduled</td>
+        </tr>
+    </table>

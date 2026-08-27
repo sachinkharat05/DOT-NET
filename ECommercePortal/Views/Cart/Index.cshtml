@@ -1,0 +1,88 @@
+@{   ViewData["Title"] = "Shopping Cart"; }
+
+
+<h2>Shopping Cart</h2>
+<hr/>
+<h3>Actions</h3>
+    <a asp-controller="Products"  asp-action="List">  Continue Shopping </a> |
+    <a asp-controller="Orders" asp-action="Checkout"> Proceed to Checkout </a>|
+    <a asp-controller="Cart" asp-action="Clear"> Clear Cart  </a> |
+    <a asp-controller="Customer" asp-action="CustomerDashboard"> Back to Dashboard </a>
+
+<table border="2" >
+    <tr>
+        <td><h3>Shopping Cart</h3></td>
+        <td><h3>Order Summary</h3></td>
+    </tr>
+    <tr>
+        <td><table border="1" cellpadding="8">
+    </tr>
+        <th>Product Id</th>
+        <th>Product Name</th>
+        <th>Price (₹)</th>
+        <th>Quantity</th>
+        <th>Total (₹)</th>
+    </tr>
+
+    <tr>
+        <td>101</td>
+        <td>Laptop</td>
+        <td>55000</td>
+        <td>1</td>
+        <td>55000</td>
+    </tr>
+
+    <tr>
+        <td>104</td>
+        <td>Mouse</td>
+        <td>500</td>
+        <td>2</td>
+        <td>1000</td>
+    </tr>
+
+    <tr>
+        <td>102</td>
+        <td>Keyboard</td>
+        <td>1200</td>
+        <td>1</td>
+        <td>1200</td>
+    </tr>
+</table>
+</td>
+        <td>
+            <table border="1" cellpadding="8">
+                <tr>
+                    <td><b>Subtotal</b></td>
+                    <td>₹57,200</td>
+                </tr>
+                <tr>
+                    <td><b>Discount</b></td>
+                    <td>₹2,200</td>
+                </tr>
+
+                <tr>
+                    <td><b>Shipping Charges</b></td>
+                    <td>₹200</td>
+                </tr>
+
+                <tr>
+                    <td><b>GST (18%)</b></td>
+                    <td>₹9,900</td>
+                </tr>
+
+                <tr>
+                    <td><b>Grand Total</b></td>
+                    <td><b>₹65,100</b></td>
+                </tr>
+            </table>
+    </tr>
+</table>
+  
+<h3>Shopping Tips</h3>
+
+<ul>
+    <li>Free delivery on orders above ₹5,000.</li>
+    <li>You can update quantities during checkout.</li>
+    <li>Items in your cart are reserved for a limited time.</li>
+    <li>Apply coupon codes during checkout to receive discounts.</li>
+</ul>

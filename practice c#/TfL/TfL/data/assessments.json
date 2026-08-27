@@ -1,0 +1,9 @@
+[
+  {
+    "assessmentId": 1,
+    "title": "Microservices Architecture",
+    "description": "Explain scalability design",
+    "durationInMinutes": 60,
+    "totalMarks": 50
+  }
+]

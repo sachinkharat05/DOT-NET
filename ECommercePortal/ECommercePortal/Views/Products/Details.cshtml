@@ -1,0 +1,41 @@
+@model ECommercePortal.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>Product Details</h2>
+
+<table cellpadding="8">
+    <tr>
+        <td>Id</td>
+        <td>@Model.Id</td>
+    </tr>
+
+    <tr>
+        <td>Name</td>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <td>Price</td>
+        <td>@Model.Price</td>
+    </tr>
+</table>
+
+<br />
+
+<!-- Add to Cart Button -->
+<a asp-controller="Cart"
+   asp-action="AddToCart"
+   asp-route-id="@Model.Id"
+   class="btn btn-success">
+    Add to Cart
+</a>
+
+&nbsp;
+
+<!-- Back Button -->
+<a asp-action="List" class="btn btn-secondary">
+    Back
+</a>

@@ -1,0 +1,14 @@
+S:\OOSolution\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.exe
+S:\OOSolution\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.deps.json
+S:\OOSolution\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.runtimeconfig.json
+S:\OOSolution\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.dll
+S:\OOSolution\OOSolution\OOPTestApp\bin\Debug\net9.0\OOPTestApp.pdb
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.AssemblyInfoInputs.cache
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.AssemblyInfo.cs
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.csproj.CoreCompileInputs.cache
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.dll
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\refint\OOPTestApp.dll
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.pdb
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\OOPTestApp.genruntimeconfig.cache
+S:\OOSolution\OOSolution\OOPTestApp\obj\Debug\net9.0\ref\OOPTestApp.dll

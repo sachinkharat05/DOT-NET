@@ -1,0 +1,14 @@
+S:\hallow\HelloAPP\bin\Debug\net10.0\HelloAPP.exe
+S:\hallow\HelloAPP\bin\Debug\net10.0\HelloAPP.deps.json
+S:\hallow\HelloAPP\bin\Debug\net10.0\HelloAPP.runtimeconfig.json
+S:\hallow\HelloAPP\bin\Debug\net10.0\HelloAPP.dll
+S:\hallow\HelloAPP\bin\Debug\net10.0\HelloAPP.pdb
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.GeneratedMSBuildEditorConfig.editorconfig
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.AssemblyInfoInputs.cache
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.AssemblyInfo.cs
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.csproj.CoreCompileInputs.cache
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.dll
+S:\hallow\HelloAPP\obj\Debug\net10.0\refint\HelloAPP.dll
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.pdb
+S:\hallow\HelloAPP\obj\Debug\net10.0\HelloAPP.genruntimeconfig.cache
+S:\hallow\HelloAPP\obj\Debug\net10.0\ref\HelloAPP.dll

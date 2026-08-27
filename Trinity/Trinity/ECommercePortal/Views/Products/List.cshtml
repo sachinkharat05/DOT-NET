@@ -1,0 +1,28 @@
+@model List<ECommercePortal.Models.Product>
+
+@{ ViewData["Title"] = "Products"; }
+
+<h2>Product List</h2>
+<p> <a asp-action="Insert">Add New Product</a> </p>
+
+<table border="1" cellpadding="8">
+
+    <tr>
+        <th>Id</th>  <th>Name</th> <th>Price</th> <th>Actions</th>
+    </tr>
+
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Id</td>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+
+            <td>
+                <a asp-action="Details" asp-route-id="@product.Id">Details</a> |
+                <a asp-action="Update" asp-route-id="@product.Id">Edit</a> | 
+                <a asp-action="Remove" asp-route-id="@product.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

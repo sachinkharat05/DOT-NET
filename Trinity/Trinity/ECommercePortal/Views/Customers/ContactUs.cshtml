@@ -1,0 +1,22 @@
+<h1>About us</h1>
+<hr/>
+
+<h3>Transflower Store</h3>
+<p>email: translowerstore@gmail.com</p>
+<p>contact number: 9881735801</p>
+
+<br/>
+<h3>Transflower Address</h3>
+
+@{  
+    int count=67;
+    float price=67.89f;
+    int cost=(int)price;
+
+    //Address theAddress=(Address)ViewData["Address"] ;
+    Address theAddress=ViewData["Address"] as Address;
+    <p>@theAddress.Street</p>
+    <p>@theAddress.City</p>
+    <p>@theAddress.State </p>
+    <p>@theAddress.ZipCode</p>
+}

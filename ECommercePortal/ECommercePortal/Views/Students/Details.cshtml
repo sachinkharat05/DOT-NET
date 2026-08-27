@@ -1,0 +1,17 @@
+@model ECommercePortal.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h2>Student Details</h2>
+
+<p><strong>Id:</strong> @Model.Id</p>
+<p><strong>First Name:</strong> @Model.FirstName</p>
+<p><strong>Last Name:</strong> @Model.LastName</p>
+<p><strong>Email:</strong> @Model.Email</p>
+<p><strong>Date Of Birth:</strong> @(Model.DateOfBirth?.ToString("yyyy-MM-dd") ?? "-")</p>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>

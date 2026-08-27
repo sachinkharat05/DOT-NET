@@ -1,0 +1,8 @@
+[
+  {
+    "questionId": 1,
+    "assessmentId": 1,
+    "questionText": "Explain Monolithic vs Microservices Architecture",
+    "marks": 20
+  }
+]

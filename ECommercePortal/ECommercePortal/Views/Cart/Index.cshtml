@@ -1,0 +1,82 @@
+@model List<ECommercePortal.Models.CartItem>
+@{ ViewData["Title"] = "Shopping Cart"; }
+
+<h2>Shopping Cart</h2>
+<hr />
+<div>
+    <a asp-controller="Products" asp-action="List">Continue Shopping</a> |
+    <a asp-controller="Cart" asp-action="Checkout">Proceed to Checkout</a> |
+    <a asp-controller="Cart" asp-action="Clear">Clear Cart</a> |
+    <a asp-controller="Customers" asp-action="Dashboard">Back to Dashboard</a>
+</div>
+
+<table border="1" cellpadding="8" width="100%" style="margin-top:10px;">
+    <tr>
+        <th>Product Id</th>
+        <th>Product Name</th>
+        <th>Price (₹)</th>
+        <th>Quantity</th>
+        <th>Total (₹)</th>
+        <th>Actions</th>
+    </tr>
+    @if (Model.Any())
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Product.Id</td>
+                <td>@item.Product.Name</td>
+                <td>@item.Product.Price</td>
+                <td>
+                    <form asp-controller="Cart" asp-action="UpdateQuantity" method="post" style="display:inline; margin:0;">
+                        <input type="hidden" name="id" value="@item.Product.Id" />
+                        <input type="number" name="quantity" value="@item.Quantity" min="1" style="width:60px;" />
+                        <button type="submit">Update</button>
+                    </form>
+                </td>
+                <td>@item.TotalAmount</td>
+                <td>
+                    <a asp-controller="Cart" asp-action="Remove" asp-route-id="@item.Product.Id">Remove</a>
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="6" style="text-align:center;">Your cart is empty.</td>
+        </tr>
+    }
+</table>
+
+<h3>Order Summary</h3>
+<table border="1" cellpadding="8" width="100%">
+    <tr>
+        <td><b>Subtotal</b></td>
+        <td>₹@Model.Sum(i => i.TotalAmount)</td>
+    </tr>
+    <tr>
+        <td><b>Discount</b></td>
+        <td>₹0</td>
+    </tr>
+    <tr>
+        <td><b>Shipping Charges</b></td>
+        <td>₹200</td>
+    </tr>
+    <tr>
+        <td><b>GST (18%)</b></td>
+        <td>₹@((Model.Sum(i => i.TotalAmount) + 200) * 0.18)</td>
+    </tr>
+    <tr>
+        <td><b>Grand Total</b></td>
+        <td><b>₹@((Model.Sum(i => i.TotalAmount) + 200) * 1.18)</b></td>
+    </tr>
+</table>
+
+<h3>Shopping Tips</h3>
+<ul>
+    <li>Free delivery on orders above ₹5,000.</li>
+    <li>You can update quantities directly in the cart.</li>
+    <li>Items in your cart are reserved for a limited time.</li>
+    <li>Apply coupon codes during checkout to receive discounts.</li>
+</ul>

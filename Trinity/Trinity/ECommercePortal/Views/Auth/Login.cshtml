@@ -1,0 +1,44 @@
+@using ECommercePortal.Models
+@{
+    ViewData["Title"] = "Login";
+}
+<h2>User Login</h2>
+<hr />
+<form asp-action="Login" asp-controller="Auth" method="post">
+    <table border="0" cellpadding="8">
+        <tr>
+            <td><label>User Name</label></td>
+            <td>
+                <input type="text" name="UserName"  value="@Model.UserName" placeholder="Enter User Name" required />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Password</label></td>
+            <td>
+                <input type="password" name="Password"   value="@Model.Password" placeholder="Enter Password" required />
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="checkbox"  id="rememberMe"     name="RememberMe" />
+                <label for="rememberMe">Remember Me</label>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input  type="submit"  value="Login" />
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                <a asp-action="Register"    asp-controller="Auth">  New User? Register Here </a>
+            </td>
+        </tr>
+    </table>
+</form>

@@ -1,0 +1,11 @@
+E:\dotnet\ECommerce\Cataog\bin\Debug\net10.0\Cataog.deps.json
+E:\dotnet\ECommerce\Cataog\bin\Debug\net10.0\Cataog.dll
+E:\dotnet\ECommerce\Cataog\bin\Debug\net10.0\Cataog.pdb
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\Cataog.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\Cataog.AssemblyInfoInputs.cache
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\Cataog.AssemblyInfo.cs
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\Cataog.csproj.CoreCompileInputs.cache
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\Cataog.dll
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\refint\Cataog.dll
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\Cataog.pdb
+E:\dotnet\ECommerce\Cataog\obj\Debug\net10.0\ref\Cataog.dll

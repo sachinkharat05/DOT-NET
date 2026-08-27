@@ -1,0 +1,83 @@
+@using ECommercePortal.Models
+ 
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>User Registration</h2>
+<hr />
+
+<form asp-action="Register" asp-controller="Auth" method="post">
+    <table border="0" cellpadding="8">
+        <tr>
+            <td><label>Name</label></td>
+            <td>
+                <input type="text"  name="Name"  value="@Model.Name" placeholder="Enter Name" required />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Email</label></td>
+            <td>
+                <input type="email" name="Email"   value="@Model.Email" placeholder="Enter Email"  required />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Mobile Number</label></td>
+            <td>
+                <input type="tel" name="Phone" value="@Model.Phone"  placeholder="Enter Mobile Number" required />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>City</label></td>
+            <td>
+                <input type="text"  name="City" value="@Model.City"  placeholder="Enter City" />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>State</label></td>
+            <td>
+                <input type="text"  name="State"  value="@Model.State" placeholder="Enter State" />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Password</label></td>
+            <td>
+                <input type="password"  name="Password"  value="@Model.Password"   placeholder="Enter Password"   required />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Confirm Password</label></td>
+            <td>
+                <input type="password"  name="ConfirmPassword" value="@Model.ConfirmPassword" placeholder="Confirm Password"  required />
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="checkbox" id="acceptTerms"  name="AcceptTerms" required />
+                <label for="acceptTerms"> I accept the Terms and Conditions </label>
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Register" />
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                Already have an account?
+                <a asp-action="Login" asp-controller="Auth"> Login </a>
+            </td>
+        </tr>
+    </table>
+</form>

@@ -1,0 +1,14 @@
+D:\tryout\timepass\typesapp\bin\Debug\net10.0\typesapp.exe
+D:\tryout\timepass\typesapp\bin\Debug\net10.0\typesapp.deps.json
+D:\tryout\timepass\typesapp\bin\Debug\net10.0\typesapp.runtimeconfig.json
+D:\tryout\timepass\typesapp\bin\Debug\net10.0\typesapp.dll
+D:\tryout\timepass\typesapp\bin\Debug\net10.0\typesapp.pdb
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.AssemblyInfoInputs.cache
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.AssemblyInfo.cs
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.csproj.CoreCompileInputs.cache
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.dll
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\refint\typesapp.dll
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.pdb
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\typesapp.genruntimeconfig.cache
+D:\tryout\timepass\typesapp\obj\Debug\net10.0\ref\typesapp.dll

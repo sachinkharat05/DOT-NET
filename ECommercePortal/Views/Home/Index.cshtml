@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome  to @ViewBag.CompanyName</h1>
+    @{
+        List<string> names=new List<string>();
+        names.Add("Sumit");
+        names.Add("Sahil"); 
+        names.Add("Sagar");
+        names.Add("Siddhesh");
+
+       foreach(string name in names){
+            <p> @name</p>
+        }
+    }
+</div>
+
+ <!-- Dynamic Server Side Page -->
+
+<!--  Web Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap,
+      React, Angular, Vue,
+      Node.js, Express.js, 
+      Django, Flask, 
+      Ruby on Rails, 
+      Laravel, 
+      Spring Boot, ASP.NET Core, PHP, JSP, ASPX, CSHTML, Blazor  -->
+ 

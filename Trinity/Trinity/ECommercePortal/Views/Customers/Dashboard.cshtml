@@ -1,0 +1,64 @@
+@{
+    ViewData["Title"] = "Transflower Dashboard";
+}
+
+  <partial name="_PersonalDetails"/> 
+    
+    <a asp-controller="Products" asp-action="List"> Browse Products </a> |
+    <a asp-controller="Orders"   asp-action="List"> View Orders     </a> |
+    <a asp-controller="Account"  asp-action="ChangePassword">Change Password</a>|
+    <a asp-controller="Auth"     asp-action="Logout">Logout</a>
+    <br />
+    
+    <h3>My Orders</h3>
+
+    <table border="1" cellpadding="8">
+        <tr>
+            <th>Order Id</th>
+            <th>Order Date</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Amount</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td>5001</td>
+            <td>01-Aug-2026</td>
+            <td>Laptop</td>
+            <td>1</td>
+            <td>₹55,000</td>
+            <td>Delivered</td>
+        </tr>
+        <tr>
+            <td>5002</td>
+            <td>03-Aug-2026</td>
+            <td>Mouse</td>
+            <td>2</td>
+            <td>₹1,000</td>
+            <td>Shipped</td>
+        </tr>
+        <tr>
+            <td>5003</td>
+            <td>05-Aug-2026</td>
+            <td>Keyboard</td>
+            <td>1</td>
+            <td>₹1,200</td>
+            <td>Processing</td>
+        </tr>
+    </table>
+    <br />
+
+    <h3>Account Summary</h3>
+        <table border="1" cellpadding="8">
+
+        <tr>
+            <th>Total Orders</th>
+            <th>Total Amount Spent</th>
+            <th>Reward Points</th>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>₹57,200</td>
+            <td>572</td>
+        </tr>
+    </table>

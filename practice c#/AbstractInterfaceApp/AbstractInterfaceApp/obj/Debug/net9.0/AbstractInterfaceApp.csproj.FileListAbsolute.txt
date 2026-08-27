@@ -1,0 +1,14 @@
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.AssemblyInfoInputs.cache
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.AssemblyInfo.cs
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.csproj.CoreCompileInputs.cache
+S:\AbstractInterfaceApp\AbstractInterfaceApp\bin\Debug\net9.0\AbstractInterfaceApp.exe
+S:\AbstractInterfaceApp\AbstractInterfaceApp\bin\Debug\net9.0\AbstractInterfaceApp.deps.json
+S:\AbstractInterfaceApp\AbstractInterfaceApp\bin\Debug\net9.0\AbstractInterfaceApp.runtimeconfig.json
+S:\AbstractInterfaceApp\AbstractInterfaceApp\bin\Debug\net9.0\AbstractInterfaceApp.dll
+S:\AbstractInterfaceApp\AbstractInterfaceApp\bin\Debug\net9.0\AbstractInterfaceApp.pdb
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.dll
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\refint\AbstractInterfaceApp.dll
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.pdb
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\AbstractInterfaceApp.genruntimeconfig.cache
+S:\AbstractInterfaceApp\AbstractInterfaceApp\obj\Debug\net9.0\ref\AbstractInterfaceApp.dll

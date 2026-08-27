@@ -1,0 +1,18 @@
+<h1>Contact Students Office</h1>
+<hr/>
+
+<h3>Student Office</h3>
+<p>email: students.office@example.com</p>
+<p>contact number: 020-12345678</p>
+
+<br/>
+<h3>Office Address</h3>
+
+@{
+     Address theAddress=(Address)ViewData["Address"] ;
+
+    <p>@theAddress.Street</p>
+    <p>@theAddress.City</p>
+    <p>@theAddress.State </p>
+    <p>@theAddress.ZipCode</p>
+}

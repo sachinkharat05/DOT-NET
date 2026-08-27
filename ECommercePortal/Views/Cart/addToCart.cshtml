@@ -1,0 +1,108 @@
+@model ECommercePortal.Models.Product
+
+@{
+    ViewData["Title"] = "Add To Cart";
+}
+
+<h2>Add Product To Cart</h2>
+<hr />
+
+<form asp-action="AddToCart" asp-controller="Cart" method="post">
+
+    <input type="hidden"  name="Id"  value="@Model.Id" />
+
+    <table border="1" cellpadding="8">
+
+        <tr>
+            <td><b>Product Id</b></td>
+            <td>@Model.Id</td>
+        </tr>
+
+        <tr>
+            <td><b>Product Name</b></td>
+            <td>@Model.Name</td>
+        </tr>
+
+        <tr>
+            <td><b>Price</b></td>
+            <td>₹@Model.Price</td>
+        </tr>
+
+        <tr>
+            <td><b>Available Stock</b></td>
+            <td>25</td>
+        </tr>
+
+        <tr>
+            <td><b>Description</b></td>
+            <td>
+                High quality product with excellent performance and durability.
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Quantity</label></td>
+            <td>
+                <input type="number" name="Quantity"   value="1"    min="1"  max="25"    required />
+            </td>
+        </tr>
+    </table>
+
+    <br />
+
+    <table>
+        <tr>
+            <td>
+                <input type="submit" value="Add To Cart" />
+            </td>
+            <td>
+                <a asp-controller="Products" asp-action="List"> Cancel </a>
+            </td>
+        </tr>
+    </table>
+</form>
+<br />
+
+<h3>Product Summary</h3>
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Feature</th>
+        <th>Value</th>
+    </tr>
+
+    <tr>
+        <td>Brand</td>
+        <td>TechWorld</td>
+    </tr>
+
+    <tr>
+        <td>Warranty</td>
+        <td>1 Year</td>
+    </tr>
+
+    <tr>
+        <td>Delivery</td>
+        <td>2 - 5 Business Days</td>
+    </tr>
+
+    <tr>
+        <td>Return Policy</td>
+        <td>7 Days Replacement</td>
+    </tr>
+</table>
+
+<br />
+
+<h3>Navigation</h3>
+
+<ul>
+    <li>
+        <a asp-controller="Products" asp-action="List"> Continue Shopping </a>
+    </li>
+    <li>
+        <a asp-controller="Cart" asp-action="Index"> View Shopping Cart </a>
+    </li>
+    <li>
+        <a asp-controller="Customer"  asp-action="CustomerDashboard"> Customer Dashboard </a>
+    </li>
+</ul>

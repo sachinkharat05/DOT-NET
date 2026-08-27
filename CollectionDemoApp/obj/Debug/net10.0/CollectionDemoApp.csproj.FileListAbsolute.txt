@@ -1,0 +1,14 @@
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.AssemblyInfoInputs.cache
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.AssemblyInfo.cs
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.csproj.CoreCompileInputs.cache
+E:\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.exe
+E:\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.deps.json
+E:\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.runtimeconfig.json
+E:\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.dll
+E:\CollectionDemoApp\bin\Debug\net10.0\CollectionDemoApp.pdb
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.dll
+E:\CollectionDemoApp\obj\Debug\net10.0\refint\CollectionDemoApp.dll
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.pdb
+E:\CollectionDemoApp\obj\Debug\net10.0\CollectionDemoApp.genruntimeconfig.cache
+E:\CollectionDemoApp\obj\Debug\net10.0\ref\CollectionDemoApp.dll

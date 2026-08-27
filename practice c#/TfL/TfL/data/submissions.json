@@ -1,0 +1,36 @@
+[
+  {
+    "submissionId": 1,
+    "assessmentId": 1,
+    "questionId": 1,
+    "studentId": 101,
+    "answerText": "Microservices architecture divides applications...",
+    "submittedAt": "2026-05-22T10:00:00",
+    "status": "SUBMITTED",
+    "mentorFeedback": "",
+    "marksObtained": 0
+  },
+  {
+    "submissionId": 2,
+    "submittedAt": "2026-05-22T06:19:54.952Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "submissionId": 3,
+    "assessmentId": 1,
+    "questionId": 1,
+    "studentId": 101,
+    "answerText": "middaleware",
+    "submittedAt": "2026-05-22T09:10:45.796Z",
+    "status": "SUBMITTED"
+  },
+  {
+    "submissionId": 4,
+    "assessmentId": 1,
+    "questionId": 1,
+    "studentId": 101,
+    "answerText": "xyz",
+    "submittedAt": "2026-05-22T11:36:25.856Z",
+    "status": "SUBMITTED"
+  }
+]

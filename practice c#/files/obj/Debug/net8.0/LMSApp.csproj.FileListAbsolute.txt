@@ -1,0 +1,14 @@
+C:\Users\khara\Downloads\files\bin\Debug\net8.0\LMSApp.exe
+C:\Users\khara\Downloads\files\bin\Debug\net8.0\LMSApp.deps.json
+C:\Users\khara\Downloads\files\bin\Debug\net8.0\LMSApp.runtimeconfig.json
+C:\Users\khara\Downloads\files\bin\Debug\net8.0\LMSApp.dll
+C:\Users\khara\Downloads\files\bin\Debug\net8.0\LMSApp.pdb
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.AssemblyInfoInputs.cache
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.AssemblyInfo.cs
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.csproj.CoreCompileInputs.cache
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.dll
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\refint\LMSApp.dll
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.pdb
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\LMSApp.genruntimeconfig.cache
+C:\Users\khara\Downloads\files\obj\Debug\net8.0\ref\LMSApp.dll

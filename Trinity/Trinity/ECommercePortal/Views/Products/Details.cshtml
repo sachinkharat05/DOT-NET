@@ -1,0 +1,25 @@
+@model ECommercePortal.Models.Product
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>Product Details</h2>
+<table cellpadding="8">
+
+    <tr>
+        <td>Id</td>
+        <td>@Model.Id</td>
+    </tr>
+
+    <tr>
+        <td>Name</td>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <td>Price</td>
+        <td>@Model.Price</td>
+    </tr>
+</table>
+<br/>
+<a asp-action="List">Back</a>

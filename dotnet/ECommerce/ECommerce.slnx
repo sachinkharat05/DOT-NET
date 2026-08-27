@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Cataog/Cataog.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
