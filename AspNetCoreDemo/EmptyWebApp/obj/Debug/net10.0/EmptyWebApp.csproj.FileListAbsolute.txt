@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\AspNetCoreDemo\EmptyWebApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\HP\Documents\AspNetCoreDemo\EmptyWebApp\obj\Debug\net10.0\EmptyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\AspNetCoreDemo\EmptyWebApp\obj\Debug\net10.0\EmptyWebApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\AspNetCoreDemo\EmptyWebApp\obj\Debug\net10.0\EmptyWebApp.AssemblyInfo.cs
+C:\Users\HP\Documents\AspNetCoreDemo\EmptyWebApp\obj\Debug\net10.0\EmptyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\AspNetCoreDemo\EmptyWebApp\obj\Debug\net10.0\EmptyWebApp.MvcApplicationPartsAssemblyInfo.cache

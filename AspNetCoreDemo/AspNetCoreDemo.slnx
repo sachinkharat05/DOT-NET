@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EmptyWebApp/EmptyWebApp.csproj" />
+  <Project Path="MinimalApi/MinimalApi.csproj" />
+  <Project Path="MvcWebApp/MvcWebApp.csproj" />
+  <Project Path="RazorPagesApp/RazorPagesApp.csproj" />
+  <Project Path="WebApiControllers/WebApiControllers.csproj" />
+</Solution>
