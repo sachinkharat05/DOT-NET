@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA-CSharp\\Sorting\\Sorting.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Sorting\\Sorting.csproj": {}
   },
   "projects": {
-    "D:\\DSA-CSharp\\Sorting\\Sorting.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Sorting\\Sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA-CSharp\\Sorting\\Sorting.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Sorting\\Sorting.csproj",
         "projectName": "Sorting",
-        "projectPath": "D:\\DSA-CSharp\\Sorting\\Sorting.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Sorting\\Sorting.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA-CSharp\\Sorting\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Sorting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet\\ECommerce\\Cataog\\Cataog.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\Cataog.csproj": {}
   },
   "projects": {
-    "E:\\dotnet\\ECommerce\\Cataog\\Cataog.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\Cataog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet\\ECommerce\\Cataog\\Cataog.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\Cataog.csproj",
         "projectName": "Cataog",
-        "projectPath": "E:\\dotnet\\ECommerce\\Cataog\\Cataog.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\Cataog.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet\\ECommerce\\Cataog\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

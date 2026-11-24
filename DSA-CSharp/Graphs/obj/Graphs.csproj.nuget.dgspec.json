@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA-CSharp\\Graphs\\Graphs.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Graphs\\Graphs.csproj": {}
   },
   "projects": {
-    "D:\\DSA-CSharp\\Graphs\\Graphs.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Graphs\\Graphs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA-CSharp\\Graphs\\Graphs.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Graphs\\Graphs.csproj",
         "projectName": "Graphs",
-        "projectPath": "D:\\DSA-CSharp\\Graphs\\Graphs.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Graphs\\Graphs.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA-CSharp\\Graphs\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Graphs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA-CSharp\\LinkedList\\LinkedList.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "D:\\DSA-CSharp\\LinkedList\\LinkedList.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA-CSharp\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "D:\\DSA-CSharp\\LinkedList\\LinkedList.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA-CSharp\\LinkedList\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

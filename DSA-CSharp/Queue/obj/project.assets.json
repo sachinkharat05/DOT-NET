@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSA-CSharp\\Queue\\Queue.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Queue\\Queue.csproj",
       "projectName": "Queue",
-      "projectPath": "D:\\DSA-CSharp\\Queue\\Queue.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Queue\\Queue.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\DSA-CSharp\\Queue\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

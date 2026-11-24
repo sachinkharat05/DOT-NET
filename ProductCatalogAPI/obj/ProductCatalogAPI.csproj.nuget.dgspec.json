@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {}
   },
   "projects": {
-    "E:\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\ProductCatalogAPI\\ProductCatalogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
         "projectName": "ProductCatalogAPI",
-        "projectPath": "E:\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\ProductCatalogAPI\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\ProductCatalogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

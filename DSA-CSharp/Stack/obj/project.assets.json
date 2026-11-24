@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSA-CSharp\\Stack\\Stack.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Stack\\Stack.csproj",
       "projectName": "Stack",
-      "projectPath": "D:\\DSA-CSharp\\Stack\\Stack.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Stack\\Stack.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\DSA-CSharp\\Stack\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

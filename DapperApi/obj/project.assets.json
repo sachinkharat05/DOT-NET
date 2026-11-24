@@ -96,11 +96,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DapperApi\\DapperApi.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DapperApi\\DapperApi.csproj",
       "projectName": "DapperApi",
-      "projectPath": "D:\\DapperApi\\DapperApi.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\DapperApi\\DapperApi.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\DapperApi\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\DapperApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

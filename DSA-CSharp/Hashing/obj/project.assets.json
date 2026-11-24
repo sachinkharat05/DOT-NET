@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSA-CSharp\\Hashing\\Hashing.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Hashing\\Hashing.csproj",
       "projectName": "Hashing",
-      "projectPath": "D:\\DSA-CSharp\\Hashing\\Hashing.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Hashing\\Hashing.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\DSA-CSharp\\Hashing\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Hashing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

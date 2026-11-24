@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Microsoft.AspNetCore.OpenApi/10.0.1": {
@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khara\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\practice c#\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
       "projectName": "InsuranceRestAPIApp",
-      "projectPath": "S:\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
-      "packagesPath": "C:\\Users\\khara\\.nuget\\packages\\",
-      "outputPath": "S:\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\obj\\",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\practice c#\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\InsuranceRestAPIApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\practice c#\\InsuranceRestAPIApp\\InsuranceRestAPIApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\khara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -105,6 +105,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -119,10 +120,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
@@ -149,7 +151,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -566,5 +568,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\MvcWebApp\\MvcWebApp.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\MvcWebApp\\MvcWebApp.csproj",
       "projectName": "MvcWebApp",
-      "projectPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\MvcWebApp\\MvcWebApp.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\MvcWebApp\\MvcWebApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\MvcWebApp\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\MvcWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

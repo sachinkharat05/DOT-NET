@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSA-CSharp\\Searching\\Searching.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Searching\\Searching.csproj",
       "projectName": "Searching",
-      "projectPath": "D:\\DSA-CSharp\\Searching\\Searching.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Searching\\Searching.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\DSA-CSharp\\Searching\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Searching\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

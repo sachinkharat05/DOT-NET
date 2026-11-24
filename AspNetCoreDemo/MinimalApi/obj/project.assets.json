@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\MinimalApi\\MinimalApi.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\MinimalApi\\MinimalApi.csproj",
       "projectName": "MinimalApi",
-      "projectPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\MinimalApi\\MinimalApi.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\MinimalApi\\MinimalApi.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\MinimalApi\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\MinimalApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj": {}
   },
   "projects": {
-    "E:\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj",
         "projectName": "EcommercePortal1",
-        "projectPath": "E:\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\EcommercePortal1\\EcommercePortal1.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet\\EcommercePortal1\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\EcommercePortal1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

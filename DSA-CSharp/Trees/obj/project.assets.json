@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DSA-CSharp\\Trees\\Trees.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Trees\\Trees.csproj",
       "projectName": "Trees",
-      "projectPath": "D:\\DSA-CSharp\\Trees\\Trees.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Trees\\Trees.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\DSA-CSharp\\Trees\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\DSA-CSharp\\Trees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ECommercePortal\\ECommercePortal\\ECommercePortal.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\ECommercePortal\\ECommercePortal\\ECommercePortal.csproj",
       "projectName": "ECommercePortal",
-      "projectPath": "E:\\ECommercePortal\\ECommercePortal\\ECommercePortal.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\ECommercePortal\\ECommercePortal\\ECommercePortal.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\ECommercePortal\\ECommercePortal\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\ECommercePortal\\ECommercePortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

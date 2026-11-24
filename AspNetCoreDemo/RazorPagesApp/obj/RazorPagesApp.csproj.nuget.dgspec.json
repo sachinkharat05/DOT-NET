@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj": {}
+    "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj": {
+    "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj",
+        "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj",
         "projectName": "RazorPagesApp",
-        "projectPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj",
+        "projectPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\RazorPagesApp\\RazorPagesApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\RazorPagesApp\\obj\\",
+        "outputPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\RazorPagesApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

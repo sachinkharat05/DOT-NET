@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CollectionDemoApp\\CollectionDemoApp.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\CollectionDemoApp\\CollectionDemoApp.csproj",
       "projectName": "CollectionDemoApp",
-      "projectPath": "E:\\CollectionDemoApp\\CollectionDemoApp.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\CollectionDemoApp\\CollectionDemoApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\CollectionDemoApp\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\CollectionDemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

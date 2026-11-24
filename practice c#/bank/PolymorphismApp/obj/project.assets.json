@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net9.0": {}
   },
@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\khara\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\bank\\PolymorphismApp\\PolymorphismApp.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\practice c#\\bank\\PolymorphismApp\\PolymorphismApp.csproj",
       "projectName": "PolymorphismApp",
-      "projectPath": "S:\\bank\\PolymorphismApp\\PolymorphismApp.csproj",
-      "packagesPath": "C:\\Users\\khara\\.nuget\\packages\\",
-      "outputPath": "S:\\bank\\PolymorphismApp\\obj\\",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\practice c#\\bank\\PolymorphismApp\\PolymorphismApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\practice c#\\bank\\PolymorphismApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\khara\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {}
         }
@@ -44,10 +45,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net9.0": {
+        "framework": "net9.0",
         "targetAlias": "net9.0",
         "imports": [
           "net461",
@@ -63,19 +65,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.16, 9.0.16]"
+            "version": "[9.0.18, 9.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.16, 9.0.16]"
+            "version": "[9.0.18, 9.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.16, 9.0.16]"
+            "version": "[9.0.18, 9.0.18]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.16, 9.0.16]"
+            "version": "[9.0.18, 9.0.18]"
           }
         ],
         "frameworkReferences": {
@@ -83,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

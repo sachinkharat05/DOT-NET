@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\WebApiControllers\\WebApiControllers.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\WebApiControllers\\WebApiControllers.csproj",
       "projectName": "WebApiControllers",
-      "projectPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\WebApiControllers\\WebApiControllers.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\WebApiControllers\\WebApiControllers.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\AspNetCoreDemo\\WebApiControllers\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\AspNetCoreDemo\\WebApiControllers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

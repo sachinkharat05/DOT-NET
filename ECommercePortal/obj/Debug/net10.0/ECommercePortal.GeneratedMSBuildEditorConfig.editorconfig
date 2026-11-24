@@ -12,117 +12,233 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ECommercePortal
 build_property.RootNamespace = ECommercePortal
-build_property.ProjectDir = D:\ECommercePortal\
+build_property.ProjectDir = D:\GIT-HUB\DOT-NET\ECommercePortal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ECommercePortal
+build_property.MSBuildProjectDirectory = D:\GIT-HUB\DOT-NET\ECommercePortal
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/ECommercePortal/Views/Auth/ChangePassword.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Auth/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEF1dGhcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEF1dGhcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEF1dGhcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Cart/addToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXENhcnRcYWRkVG9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXENhcnRcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXENhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Customers/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEN1c3RvbWVyc1xBYm91dHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Customers/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEN1c3RvbWVyc1xDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Customers/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEN1c3RvbWVyc1xEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEN1c3RvbWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Home/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXEhvbWVcV2VsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFByb2R1Y3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Products/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFByb2R1Y3RzXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Products/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFByb2R1Y3RzXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Products/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFByb2R1Y3RzXFJlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Products/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFByb2R1Y3RzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Students/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFN0dWRlbnRzXEFib3V0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Students/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFN0dWRlbnRzXENvbnRhY3RVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFN0dWRlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Students/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFN0dWRlbnRzXERhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFN0dWRlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFN0dWRlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Auth/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Auth/Login.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Auth/Register.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Cart/addToCart.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Cart/addToCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxhZGRUb0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Cart/Index.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Customers/Aboutus.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Customers/Aboutus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEFib3V0dXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Customers/ContactUs.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Customers/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENvbnRhY3RVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Customers/Dashboard.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Customers/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Customers/Index.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Customers/Profile.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Customers/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Home/Index.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Home/Privacy.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Home/Welcome.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Home/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Products/Details.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Products/Insert.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Products/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5zZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Products/List.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Products/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Products/Remove.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Products/Remove.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUmVtb3ZlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Products/Update.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Products/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Shared/Error.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Shared/_OrdersHistory.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Shared/_OrdersHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlcnNIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Shared/_PersonalDetails.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Shared/_PersonalDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QZXJzb25hbERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Shared/_Settings.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Shared/_Settings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXR0aW5ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/_ViewImports.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/_ViewStart.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ECommercePortal/Views/Shared/_Layout.cshtml]
+[D:/GIT-HUB/DOT-NET/ECommercePortal/ECommercePortal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RUNvbW1lcmNlUG9ydGFsXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-kirgthek52
+
+[D:/GIT-HUB/DOT-NET/ECommercePortal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pvqrwmymil

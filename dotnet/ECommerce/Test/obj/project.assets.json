@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet\\ECommerce\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\dotnet\\ECommerce\\Test\\Test.csproj",
+      "projectPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet\\ECommerce\\Test\\obj\\",
+      "outputPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,8 +52,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\dotnet\\ECommerce\\Cataog\\Cataog.csproj": {
-              "projectPath": "E:\\dotnet\\ECommerce\\Cataog\\Cataog.csproj"
+            "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\Cataog.csproj": {
+              "projectPath": "D:\\GIT-HUB\\DOT-NET\\dotnet\\ECommerce\\Cataog\\Cataog.csproj"
             }
           }
         }
